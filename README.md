@@ -1,4 +1,6 @@
 # FBJS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhong4rc%2Ffbjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhong4rc%2Ffbjs?ref=badge_shield)
+
 
 ## Purpose
 
@@ -9,3 +11,5 @@ To make it easier for Facebook to share and consume our own JavaScript. Primaril
 ## License
 
 FBJS and the other packages included here are MIT licensed, as found in the LICENSE file.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhong4rc%2Ffbjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhong4rc%2Ffbjs?ref=badge_large)
